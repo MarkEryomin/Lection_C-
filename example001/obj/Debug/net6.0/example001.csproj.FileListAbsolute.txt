@@ -1,0 +1,15 @@
+C:\C# education\C#Lections\lection1\example001\bin\Debug\net6.0\example001.exe
+C:\C# education\C#Lections\lection1\example001\bin\Debug\net6.0\example001.deps.json
+C:\C# education\C#Lections\lection1\example001\bin\Debug\net6.0\example001.runtimeconfig.json
+C:\C# education\C#Lections\lection1\example001\bin\Debug\net6.0\example001.dll
+C:\C# education\C#Lections\lection1\example001\bin\Debug\net6.0\example001.pdb
+C:\C# education\C#Lections\lection1\example001\obj\Debug\net6.0\example001.csproj.AssemblyReference.cache
+C:\C# education\C#Lections\lection1\example001\obj\Debug\net6.0\example001.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# education\C#Lections\lection1\example001\obj\Debug\net6.0\example001.AssemblyInfoInputs.cache
+C:\C# education\C#Lections\lection1\example001\obj\Debug\net6.0\example001.AssemblyInfo.cs
+C:\C# education\C#Lections\lection1\example001\obj\Debug\net6.0\example001.csproj.CoreCompileInputs.cache
+C:\C# education\C#Lections\lection1\example001\obj\Debug\net6.0\example001.dll
+C:\C# education\C#Lections\lection1\example001\obj\Debug\net6.0\refint\example001.dll
+C:\C# education\C#Lections\lection1\example001\obj\Debug\net6.0\example001.pdb
+C:\C# education\C#Lections\lection1\example001\obj\Debug\net6.0\example001.genruntimeconfig.cache
+C:\C# education\C#Lections\lection1\example001\obj\Debug\net6.0\ref\example001.dll
