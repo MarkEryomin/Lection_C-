@@ -1,4 +1,6 @@
-﻿int NumberA = 7;
-int NumberB = 21;
-int sum =NumberA+NumberB;
-Console.WriteLine(sum);
+﻿int NumberA = new Random().Next(1,10);
+int NumberB = new Random().Next(1,10);
+int sum ;
+Console.Write(NumberA+ " + " +NumberB + " = ");
+Console.WriteLine(sum=NumberA+NumberB);
+
